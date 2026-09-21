@@ -1,1 +1,7 @@
-# Portfolio
+# Data Scienttinst 
+
+# Educations 
+
+
+# Projects
+
