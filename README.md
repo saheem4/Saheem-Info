@@ -31,7 +31,9 @@ I transform raw data into actionable dashboards, analytical solutions, and predi
 
 ### 📊 [Sales Insights Dashboard](https://github.com/your-username/sales-insights-dashboard)
 Power BI analytics dashboard on a relational sales database (AdventureWorks-style schema), with DAX measures for revenue, cost, and profit tracking.
-**Impact:** Surfaced a sharp post-2013 profit growth trend and identified that a single product class drove the majority of profit — the kind of insight that reprioritizes inventory and sales focus.
+Business Impact:
+- Identified key revenue and profit drivers through interactive analysis
+- Created decision-support dashboards for inventory and sales optimization
 `Power BI` `DAX` `MySQL` `Data Modeling`
 
 ### 👥 [HR Analytics Dashboard](https://github.com/your-username/hr-analytics-dashboard)
@@ -69,11 +71,20 @@ Interactive Tableau dashboard visualizing COVID-19 case and trend data.
 **Impact:** Made complex pandemic data accessible for educational and management purposes through clear, interactive visuals rather than raw tables.
 `Tableau` `Data Visualization`
 
-## 🛠 Skills
+## 🛠 Technical Skills
 
-**BI & Reporting:** Power BI · DAX · Power Query · Tableau · Excel
-**Data:** SQL · Python · ETL · Data Modeling · EDA
-**Machine Learning:** Scikit-learn · TensorFlow · XGBoost · LightGBM · Time-Series Forecasting · Deep Learning (LSTM, GRU, TCN)
+### Data Analytics & BI
+Power BI | DAX | Power Query | Tableau | Excel | KPI Reporting | Dashboard Development
+
+### Programming & Data
+Python | SQL | MySQL | Pandas | NumPy | ETL | Data Cleaning | Data Modeling | Exploratory Data Analysis
+
+### Machine Learning & AI
+Scikit-learn | TensorFlow | Keras | XGBoost | LightGBM | Regression | Classification | Time-Series Forecasting | Deep Learning
+
+### Visualization
+Power BI | Tableau | Matplotlib | Seaborn | Interactive Dashboards
+
 **Languages:** English (Fluent) · Sinhala (Fluent) · Tamil (Fluent) · Arabic (Basic, learning)
 
 ## 🌱 Currently Learning
