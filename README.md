@@ -1,7 +1,8 @@
-# Data Analyst | Power BI, SQL & Python | Building toward Data Science
+# Data Analyst | BI Analytics | Python • SQL • Power BI | Aspiring Data Scientist
+
 📍 Riyadh, Saudi Arabia
 
-I turn messy data into dashboards and models that people actually use to make decisions — currently in BI/analytics, actively growing into machine learning and forecasting.
+I transform raw data into actionable dashboards, analytical solutions, and predictive models that support better business decisions. Currently working in BI analytics while expanding into machine learning, forecasting, and AI-driven data solutions.
 
 ---
 ## 🎓 Education
@@ -74,6 +75,13 @@ Interactive Tableau dashboard visualizing COVID-19 case and trend data.
 **Data:** SQL · Python · ETL · Data Modeling · EDA
 **Machine Learning:** Scikit-learn · TensorFlow · XGBoost · LightGBM · Time-Series Forecasting · Deep Learning (LSTM, GRU, TCN)
 **Languages:** English (Fluent) · Sinhala (Fluent) · Tamil (Fluent) · Arabic (Basic, learning)
+
+## 🌱 Currently Learning
+
+- Advanced Machine Learning
+- MLOps fundamentals
+- Cloud data platforms
+- Generative AI for analytics
 
 ## 📫 Connect with Me
 
