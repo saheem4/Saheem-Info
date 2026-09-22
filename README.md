@@ -11,22 +11,6 @@ I transform raw data into actionable dashboards, analytical solutions, and predi
 
 **Certifications:** Advanced SQL (365 Data Science) · Power BI (365 Data Science)
 
-## 💼 Experience
-
-**Data Analyst** — Overseas Automotive Pvt Ltd *(Sep 2024 – Present)*
-- Designed and maintained interactive Power BI dashboards tracking revenue, inventory, import costs, and profit margins for sales and procurement teams
-- Built recurring KPI reports using DAX and Power Query, moving stakeholders from manual, ad-hoc reporting to same-day visibility into performance
-- Built demand-forecasting models to guide inventory planning and reduce the risk of stockouts and overstock
-- Cleaned and validated import/export and supplier datasets using Python and SQL to support procurement planning and cost optimization
-
-**Data Science Intern** — Overseas Automotive Pvt Ltd *(Mar 2024 – Aug 2024)*
-- Built Power BI dashboards to track sales trends and product performance
-- Cleaned and prepared sales/inventory datasets for analysis and reporting
-- Developed sales-forecasting models using both classic ML (regression-based) and deep learning approaches to predict future sales trends
-- Converted to a full-time Data Analyst role based on internship performance
-
-
-
 ## 🚀 Featured Projects
 
 ### 📊 [Sales Insights Dashboard](https://github.com/your-username/sales-insights-dashboard)
